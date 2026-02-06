@@ -76,7 +76,7 @@ I chose to use Power BI for one of my visualizations as I have quite limited exp
 - Added the explanatory title "Penguin Size by Species"
 
 
-### References
+#### References
 I consulted a number of sources as many of these tools were new (or rusty) to me. 
 
 [Map a variable to marker feature in ggplot2 scatterplot](https://r-graph-gallery.com/274-map-a-variable-to-ggplot2-scatterplot.html)
