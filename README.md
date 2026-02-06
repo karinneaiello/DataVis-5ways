@@ -78,6 +78,7 @@ I chose to use Power BI for one of my visualizations as I have quite limited exp
 
 ### References
 I consulted a number of sources as many of these tools were new (or rusty) to me. 
+
 [Map a variable to marker feature in ggplot2 scatterplot](https://r-graph-gallery.com/274-map-a-variable-to-ggplot2-scatterplot.html)
 
 [Comprehensive Guide to Scatter Plot using ggplot2 in R](https://www.geeksforgeeks.org/r-language/comprehensive-guide-to-scatter-plot-using-ggplot2-in-r/)
