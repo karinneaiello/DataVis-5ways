@@ -3,20 +3,6 @@
 # Assignment 2 - Data Visualization, 5 Ways  
 ===
 
-## R + ggplot2
-![r](img/r_img.png)
-
-Using R and ggplot2 to make the visualization was very straightforward. I have prior experience with R for statistics, but I am certainly rusty and have not used ggplot2 before to my knowledge. Regardless, I found the code quite readable and succinct, and the visualization was one of my favorites. R and ggplot2 did the best job in my option with size mapping for bill_length_mm. To get the right chart, I used "na.strings = "NA"" when loading the data to help the program recognize NA as a null value rather than the string "NA". When running this code, I used RStudio and installed the necessary packages and provided the csv. 
-
-### Technical Achievements
-- Efficiently handled missing values using with "na.strings = "NA""
-
-### Design Achievements
-- Visualized differences in bill length beautifully using the size of the circles as data points
-- Matched the background grid and both legends identically to the original picture
-- Added the explanatory title "Penguin Size by Species"
-
-
 ## d3 + HTML + JavaScript
 ![d3](img/d3_img.png)
 
@@ -30,6 +16,20 @@ This was the trickiest tool for me as it is the one I am least familiar with. I 
 ### Design Achievements
 - Programmed my axes to start at 170 x and 2500 y respectively to preserve the scale in the original picture
 - Made a clean visualization by removing unnecessary marks and using an opacity of 0.8 to increase readability
+- Added the explanatory title "Penguin Size by Species"
+
+
+## R + ggplot2
+![r](img/r_img.png)
+
+Using R and ggplot2 to make the visualization was very straightforward. I have prior experience with R for statistics, but I am certainly rusty and have not used ggplot2 before to my knowledge. Regardless, I found the code quite readable and succinct, and the visualization was one of my favorites. R and ggplot2 did the best job in my option with size mapping for bill_length_mm. To get the right chart, I used "na.strings = "NA"" when loading the data to help the program recognize NA as a null value rather than the string "NA". When running this code, I used RStudio and installed the necessary packages and provided the csv. 
+
+### Technical Achievements
+- Efficiently handled missing values using with "na.strings = "NA""
+
+### Design Achievements
+- Visualized differences in bill length beautifully using the size of the circles as data points
+- Matched the background grid and both legends identically to the original picture
 - Added the explanatory title "Penguin Size by Species"
 
 
